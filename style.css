@@ -1,0 +1,36 @@
+body {
+    background-image: url('photo_2026-11-03_20-14-51.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    padding: 15px;
+}
+
+footer {
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+h1, h2 {
+    color: white;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    border-radius: 8px;
+}
+
